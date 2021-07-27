@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ldguo568hmx@sina.com
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats-beta-olive-84.vercel.app/api?username=kallyshall&count_private=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats-zeta-kohl.vercel.app/api?username=kallyshall&count_private=true&theme=nord)
