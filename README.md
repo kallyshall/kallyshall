@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m currently working at IBM
-- I’m currently learning typescript->apollo->react
+- I’m currently learning javascript->typescript->apollo->react
 - How to reach me: ldguo568hmx@sina.com
 - Languages: golang, python(image processing), java(android)
 
